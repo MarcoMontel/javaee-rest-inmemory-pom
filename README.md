@@ -1,4 +1,4 @@
-A Plain and Clean JavaEE Project Template
+A Plain and Clean JavaEE Test Project Template
 =====================
 
-Minimal Maven 3 pom.xml for JavaEE 7 Projects (for JavaEE 6 checkout the JavaEE6 tag)
+Minimal Maven 3 archetype for testing JavaEE 7 Rest Projects with default inmemory database.
